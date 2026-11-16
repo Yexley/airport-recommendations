@@ -4,7 +4,7 @@
 
 **最后更新于 2026 年 11 月 16 日**
 
-我平时把 MESL 当作办公和使用 AI 工具的主力，把 FlyBit 和网际快车留作学习、使用 AI 工具时的备选。偶尔看视频，我会切到吹雪云。这篇把我自己的买法和能查到的公开套餐放在一起，方便你按使用频率和预算挑选。
+工作和用 AI，我平时开 MESL。学习查资料、想多备一条线路，我会留着 FlyBit 和网际快车的按量包。轮到看视频，我首选吹雪云，价格便宜，给的流量又多。我把自己买的档位和查到的报价放在一起，你可以照着自己的用量挑。
 
 > 如果我的意见对你有帮助，请使用我的邀请码，这对我真的很重要。感谢你的支持！
 >
@@ -26,10 +26,10 @@
 
 | 机场 | 我怎么用 | 可以先比较的套餐 |
 | --- | --- | --- |
-| [MESL](#provider-mesl) | 办公、AI 主力 | 每月 50 GB 的年付档，或每月 100 GB 的季付档 |
-| [FlyBit](#provider-flybit) | 学习、AI 备用 | 128 GiB 不限时包，也有月付档可选 |
-| [网际快车](#wjkc) | 学习、AI 备用 | 20 GB 一次性流量包 |
-| [吹雪云](#chuixueyun) | 偶尔看视频 | 888 GB 一次性包，或 128 GB 月付档 |
+| [MESL](#provider-mesl) | 办公、ChatGPT 主力，部分家宽出口 IP 干净 | 每月 50 GB 的年付档，或每月 100 GB 的季付档 |
+| [FlyBit](#provider-flybit) | 查资料、用 ChatGPT 的备用选择 | 128 GiB 不限时包，也有月付档可选 |
+| [网际快车](#wjkc) | 学习、AI 备用，想用家宽时多一个选择 | 20 GB 一次性流量包 |
+| [吹雪云](#chuixueyun) | 日常看视频首选，便宜又量大 | ¥2 月付 128 GB，或 ¥18.80 一次性 888 GB |
 
 以下价格以人民币列出。各节注明套餐资料来源和核对时间，结账前请再看账户内的价格、流量、有效期及优惠。AI 和视频平台的使用体验会随节点、时段和账号地区变化。
 
@@ -43,13 +43,13 @@
 
 ### 机场简介
 
-MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年付档，流量每月重置。如果每月经常超过 50 GB，可以接着比较 100G 季付和 200G 月付，按实际用量决定。
+如果你平时一边办公，一边开着 ChatGPT 查资料、梳理文档，MESL 是我最愿意先推荐的一家。我自己买的是 Premium 50G 年付，流量每个月重置。它吸引我的地方是有好几个地区的家宽可以选，部分出口的 IP 确实挺干净。比如公开测评里有一条美国 AT&T 住宅出口，IPPure 风险评分只有 3%。[MESL 家宽 IP 检测截图](https://vpsknow.com/reviews/airports/mesl-airport-review/)
 
 ### 核心亮点
 
-- **按月使用额度。** 50G 年付、100G 季付以及 200G、300G 月付档，表中流量均为每月额度。公开产品页列出的 200G 和 300G 均支持最多 5 台设备同时在线。[MESL Cloud 产品页](https://mesl.cloud/)
-- **专线中继与多个地区可选。** 已公开的 Premium 套餐卡片记录列有 BGP、IPLC 和 IEPL 专线中继，地区包括香港、日本、新加坡及美国。[9 月 16 日后台复核](https://www.jichangtuijian.live/iplc/mesl)
-- **有多端应用。** 产品页列有 Windows、macOS、Linux、Android、iPhone、iPad、Apple TV 和 OpenWrt。已有兼容客户端的用户也可按服务条款从后台临时开启订阅地址。[产品页](https://mesl.cloud/) · [MESL 服务条款](https://tos.meslcloud.com/terms?lang=zh)
+- **用 ChatGPT 有不少节点可选。** 11 月 14 日的第三方抽测里，50 个在线样本都被标记为 ChatGPT 可用。平时用 ChatGPT 帮忙读资料、整理提纲，这份记录可以当成选节点的参考。[11 月 14 日节点检测](https://cejichang.com/r/ba13252c-04ae-4961-8548-5b56efda9750)
+- **有专线中继，也有不同地区的家宽。** 公开套餐记录列有 BGP、IPLC 和 IEPL 专线中继，家宽节点资料里还能看到香港 HKT、日本 SoftBank、美国 AT&T 等运营商。想挑常用地区的出口时，有比较具体的选项。[套餐与家宽节点记录](https://www.jichangtuijian.live/iplc/mesl)
+- **电脑和手机都能用。** 官方应用覆盖 Windows、macOS、Linux、Android、iPhone、iPad，也有 Apple TV 和 OpenWrt 版本。200G 和 300G 月付档在产品页上标注最多 5 台设备同时在线。[MESL Cloud 产品页](https://mesl.cloud/)
 
 ### 套餐与价格
 
@@ -64,7 +64,7 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 适合人群
 
-适合有固定办公或学习需求、月流量比较好估算，也想在手机和电脑上使用同一账户的人。把 AI 工具作为日常工作的一部分时，可以先在常用设备上验证具体功能，再选付款周期。
+如果你天天都要开 AI 网页，想挑一条合适的家宽当常用节点，可以先看 MESL。按月用量大致算得出来的话，就照我的买法从 50G 年付开始比较。还会经常传素材、下文件的朋友，可以顺手看看 100G 季付和 200G 月付。
 
 ### 注册入口
 
@@ -80,14 +80,14 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 机场简介
 
-我买的是 FlyBit 的按量包，主要留作学习和使用 AI 工具时备用。它把月付额度和不限时总量包分开售卖。像我这样隔一阵才切过去用，按量包更贴合使用频率。
+FlyBit 是我留着查资料和用 AI 的备用。我挺喜欢它的按量买法，买一份总流量，隔一阵再打开也可以接着用。你如果也想在写作业、看教程时顺手问几句 ChatGPT，可以先看看日本和美国节点。11 月 4 日的第三方测试里，这两个地区各有一个节点当次用 ChatGPT 很流畅。[FlyBit 日本和美国节点测试](https://siilas.com/airport/flybit/)
 
 ### 核心亮点
 
-- **支持按量和按月使用。** 近期套餐记录列有从 128 GiB 起的一次性不限时包，也有相同起步流量的月付档。[11 月 4 日套餐复核](https://www.zjtf.org/posts/flybit-plan-client-validation-guide-20261103/)
-- **官方公布了地区名单和试用说明。** 地区包括香港、日本、新加坡、美国、韩国、英国和巴西等。官方导航页标注注册可获得 2G 试用流量，领取条件以账户实际显示为准。[FlyBit 地址发布页](https://github.com/FlyBitVIP/FlyBit-Airport-Address) · [FlyBit 网址导航](https://goflybit.pages.dev/)
-- **支持通用订阅。** 官方频道公告称主协议已切换为 AnyTLS。电脑可参考 FlClash，安卓可参考 Clash Meta for Android，iOS 可参考 Shadowrocket，导入前核对客户端版本是否支持 AnyTLS。[FlyBit 协议公告](https://t.me/flybitvpn/205) · [11 月 13 日客户端记录](https://wallights.com/airports/flybit/)
-- **有公开优惠信息。** 官方地址发布页列有九折码 `flybit`，是否适用以结算页为准。[FlyBit 地址发布页](https://github.com/FlyBitVIP/FlyBit-Airport-Address)
+- **偶尔用和经常用都有合适的买法。** ¥36 的 128 GiB 不限时包方便留作备用。用得勤的话，¥15 月付也有每月 128 GiB。[11 月 4 日套餐复核](https://www.zjtf.org/posts/flybit-plan-client-validation-guide-20261103/)
+- **想先试试的话，官方标注有 2G 注册试用。** 日本、新加坡、美国等常用地区都在公开节点名单里，可以挑自己顺手的地区试试查资料和 AI 对话。领取条件以账户显示为准。[FlyBit 网址导航](https://goflybit.pages.dev/) · [官方地区名单](https://github.com/FlyBitVIP/FlyBit-Airport-Address)
+- **手上的客户端可以接着用。** FlyBit 提供 AnyTLS 订阅。电脑可以用支持该协议的 FlClash，安卓可以看 Clash Meta for Android，iPhone 可以看 Shadowrocket。[FlyBit 协议公告](https://t.me/flybitvpn/205) · [11 月 13 日客户端记录](https://wallights.com/airports/flybit/)
+- **下单时可以试试九折码。** 官方发布页列的是 `flybit`，在结算页看实际折扣就好。[FlyBit 地址发布页](https://github.com/FlyBitVIP/FlyBit-Airport-Address)
 
 ### 套餐与价格
 
@@ -106,7 +106,7 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 适合人群
 
-适合想沿用现有订阅客户端、隔一段时间才用一次的人。若账户显示有试用额度，可以用它检查常用节点，并实际跑一遍学习网站或 AI 工具的日常操作。
+如果你已经有主力线路，只想再备一份流量给学习和 AI 用，我会把 FlyBit 放进备选。账户里有试用的话，就拿一个平时真的会问 ChatGPT 的问题试试，顺手打开常看的文档或课程页，这样更容易知道哪条线路用着合适。
 
 ### 注册入口
 
@@ -122,13 +122,13 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 机场简介
 
-网际快车是我用于学习和 AI 工具的另一条备用线路，我买的是按量包。公开套餐记录里有 20 GB 的小额档，可以从较低的一次性支出开始。平时只有少数日子集中使用的人，也可以比较按天重置流量的日享包。
+网际快车我也买了按量包，平时学习、用 AI 时当备选。我觉得它最值得单独讲的是**小额流量包和家宽节点都有**。公开截图里有日本 SoftBank 家宽和美国住宅出口。偶尔想用家宽查资料、跑一遍常用的 AI 工具，可以把它留在客户端里，需要时再切过去。[日本家宽检测与节点截图](https://vpstuijian.pro/reviews/airports/wangji-express-airport-review/)
 
 ### 核心亮点
 
-- **一次性包从 20 GB 起。** 公开商店记录列有 20 GB 到 1980 GB 的总量档位，流量用完为止。[10 月 17 日套餐资料复核](https://siilas.com/airport/interexpress/)
-- **有家宽和中转选项。** 公开记录包含香港、日本、新加坡及美国等地的节点。10 月 23 日的第三方测试报告记录了日本、新加坡和美国节点当次可以使用 ChatGPT。[节点快照与第三方记录](https://siilas.com/airport/interexpress/)
-- **可导入第三方客户端。** 公开资料列有 FlClash、Hiddify、sing-box 和 Shadowrocket 等选择，手机和电脑可按各自系统选用兼容客户端。[客户端与订阅记录](https://siilas.com/airport/interexpress/)
+- **日本家宽有实测截图。** 第三方的 IP 查询把其中一个日本 SoftBank 出口识别为原生住宅 IP。节点列表里也能看到香港家宽和美国住宅家宽，想选不同地区的出口时有几种选择。[SoftBank 出口检测](https://vpstuijian.pro/reviews/airports/wangji-express-airport-review/) · [网际快车节点记录](https://siilas.com/airport/interexpress/)
+- **有 ChatGPT 实测可参考。** 10 月 23 日的第三方测试记录了日本、新加坡和美国节点当次可用。想找条 AI 备用线路，可以先比较这几个地区。[10 月 23 日节点体验](https://siilas.com/airport/interexpress/)
+- **小额补一份流量就能当备用。** 商店记录里有 ¥6.80 的 20 GB 一次性包，想多备一点也有 100 GB 和 200 GB。手头已有 FlClash、Hiddify、sing-box 或 Shadowrocket，也可以选兼容的方式导入订阅。[商店与客户端记录](https://siilas.com/airport/interexpress/)
 
 ### 套餐与价格
 
@@ -148,7 +148,7 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 适合人群
 
-适合希望用小额流量包做备用，或想在兼容客户端里切换不同地区节点的人。偶尔用来查资料可以先比较 20 GB 和 100 GB 档。若需要在少数几天集中使用，再看日享包的总价和每日额度。
+如果你和我一样，平日里主用一条线路，又想多留一个家宽选项，可以从网际快车的 20 GB 或 100 GB 包挑起。要是碰上某几天集中看课、下载资料，还可以看看每天重置 60 GB 的日享包。
 
 ### 注册入口
 
@@ -164,14 +164,13 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 机场简介
 
-吹雪云是我偶尔看视频时用的备用服务，我选了按量包。它也有小额月付档。如果你想先看看自己平常使用的网络和设备能不能顺畅播放，可以从月付入门档开始。
+说到日常看视频，**吹雪云是我的首选**。我自己是偶尔看，所以买的按量包。它最讨我喜欢的就是便宜、量大，¥2 月付就有 128 GB。要是你每周都追剧、看视频教程，¥4 的 512 GB、¥6 的 1024 GB 也都值得一看，往上加几块钱就能多留不少流量。[吹雪云官方频道](https://t.me/s/chuixueyun) · [月付档记录](https://jichangblog.com/reviews-chuixueyun/)
 
 ### 核心亮点
 
-- **月付门槛低。** 官方频道公布了 ¥2/月的 128G 入门档，也说明提供不限时流量包。公开套餐记录中还有 512 GB 和 1024 GB 月付档。[吹雪云官方频道](https://t.me/s/chuixueyun) · [10 月 27 日套餐记录](https://jichangblog.com/reviews-chuixueyun/)
-- **有常用地区的直连节点。** 官方频道说明采用 VLESS + Reality 和 Amazon 线路资源，第三方记录列有香港、日本、新加坡和美国等地区。[吹雪云官方频道](https://t.me/s/chuixueyun) · [节点与线路记录](https://jichangclub.com/chuixueyun-review/)
-- **电脑和手机均有客户端选项。** 官方频道列出 FlClash、Clash Verge、Karing 和 Shadowrocket 等，具体选择随系统和版本而异。[吹雪云官方客户端列表](https://t.me/s/chuixueyun)
-- **有带时间的 YouTube 样本可参考。** 第三方在 10 月 25 日记录了香港和新加坡节点的 YouTube 播放测试，适合用来挑选自己先试哪些地区。[第三方播放测试](https://jichangblog.com/reviews-chuixueyun/)
+- **看视频时，月付和按量都划算。** 每个月都看，可以按用量选 ¥2、¥4 或 ¥6 的月付档。隔一阵才看几次的话，一次性 888 GB 档在两份公开记录里都标价 ¥18.80，适合存着慢慢用。[10 月 16 日报价记录](https://jichangclub.com/chuixueyun-review/) · [10 月 27 日报价记录](https://jichangblog.com/reviews-chuixueyun/)
+- **香港和新加坡有 YouTube 播放样本。** 10 月 25 日的第三方记录保留了这两个地区的播放截图。平时爱看 YouTube 的朋友，可以挑一条先试一集自己常看的节目。[YouTube 播放测试](https://jichangblog.com/reviews-chuixueyun/)
+- **从手机换到电脑也方便。** 官方发布过多个系统的客户端清单，里面有 FlClash、Clash Verge、Karing 和 Shadowrocket。节点方面，官方介绍采用 VLESS + Reality 和 Amazon 线路资源，公开列表还收录了日本、韩国、美国等直连地区。[吹雪云官方频道](https://t.me/s/chuixueyun) · [节点与线路记录](https://jichangclub.com/chuixueyun-review/)
 
 ### 套餐与价格
 
@@ -191,7 +190,7 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ### 适合人群
 
-适合想控制视频备用线路预算、愿意在自己常用网络上试播的人。只在少数日子使用，可以比较 888 GB 一次性包。几乎每周都看，再按实际流量关注 128 GB、512 GB 或 1024 GB 月付档。
+如果你主要就是下班追剧、周末看看 YouTube，想试一个月就从 ¥2 的雪花档开始。平时爱开高清、连续看好几集，就直接比较 ¥4 的雪堆和 ¥6 的雪山。和我一样偶尔才看的话，888 GB 一次性包也挺合适。
 
 ### 注册入口
 
@@ -211,6 +210,6 @@ MESL 是我办公和使用 AI 工具时的主力。我买的是 Premium 50G 年�
 
 ## 怎么选
 
-办公和学习用量比较固定，可以先看 MESL 的月度额度，再选合适的付款周期。想保留一条低频备用，FlyBit 和网际快车都有一次性流量包。偶尔看视频，可以把吹雪云的小额月付和一次性包放在一起比较，再根据实际播放体验决定。
+如果朋友只问我该从哪家看起，我会先问平时拿来干什么。常开 ChatGPT 办公，我选 MESL。学习用 AI 想留个备用，我会看 FlyBit，想多备一个家宽出口就看看网际快车。日常看视频，吹雪云是我的首选，想小额月付和想囤流量慢慢看，都找得到合适的档位。
 
 > 如果我的意见对你有帮助，请使用我的邀请码，这对我真的很重要。你的支持是我持续整理和更新这些推荐内容的重要动力！
